@@ -82,8 +82,23 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 </p>
 
 ---
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavi-patel-developerE&theme=tokyonight"/>
-##  Current Focus
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=pallavi-patel-developer&show_icons=true&theme=radical&count_private=true)
+
+---
+
+## 🚀 Contribution Graph
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavi-patel-developer&theme=tokyonight)
+
+---
+
+## 📈 Additional Stats
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavi-patel-developer&theme=tokyonight)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavi-patel-developer&theme=tokyonight)##  Current Focus
 
 - AI + Backend Integration  
 - Scalable SaaS Architecture  
