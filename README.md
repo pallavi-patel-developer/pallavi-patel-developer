@@ -53,9 +53,7 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pallavi-patel-developer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170"/>
-
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-patel-developer&theme=radical" height="170"/> -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-patel-developer&theme=radical" height="170"/>
 
 </p>
 
@@ -73,30 +71,17 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 ##  GitHub Metrics
 
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=pallavi-patel-developer&show_icons=true&theme=radical"/>
-</p> -->
-
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-patel-developer&theme=radical"/>
 </p>
 
 ---
 
-## 🚀 Contribution Graph
+## 📊 Additional Stats
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavi-patel-developer&theme=tokyonight)
-
----
-
-##  Additional Stats
-<div style="display: flex; align-items: center;">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavi-patel-developer&theme=tokyonight)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavi-patel-developer&theme=tokyonight)
-
-</div>
+| Stats | Languages |
+|------|------|
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pallavi-patel-developer&theme=tokyonight) | ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pallavi-patel-developer&theme=tokyonight) |
 ---
 
 ##  Current Focus
