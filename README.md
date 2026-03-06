@@ -6,15 +6,9 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 ---
 
-<p align="center">
-<img src="https://kvadrat.az/en/articles/backend-inkisafi-server-terefi-proqramlasdirmanin-etrafli-tehlili" width="600"/>
-</p>
-
----
-
 ## 👩‍💻 About Me
 
-<img align="right" src="https://in.pinterest.com/pin/4644405857811181/" width="250"/>
+<img align="right" src="https://images.unsplash.com/photo-1677442136019-21780ecad995" width="250"/>
 
 🔥 Passionate **Backend Developer with AI integration**  
 ⚡ Building **scalable APIs, ML-powered systems, and cloud applications**  
@@ -56,7 +50,29 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=pallavi-patel-developer&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-patel-developer&theme=radical" height="170"/>
+
+</p>
+
+---
+
+## 🚀 Contribution Overview
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavi-patel-developer&theme=radical"/>
+
+</p>
+
+---
+
+## 📈 GitHub Metrics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pallavi-patel-developer&show_icons=true&theme=radical"/>
