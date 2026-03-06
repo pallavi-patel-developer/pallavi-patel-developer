@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Backend Developer with AI</h1>
+<h1 align="center"> Backend Developer with AI</h1>
 
 <p align="center">
 Building intelligent backend systems, scalable APIs, and AI-powered applications.
@@ -6,41 +6,40 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
-<img align="right" src="https://images.unsplash.com/photo-1677442136019-21780ecad995" width="250"/>
 
-🔥 Passionate **Backend Developer with AI integration**  
-⚡ Building **scalable APIs, ML-powered systems, and cloud applications**  
-🧠 Interested in **AI + Backend Architecture**  
-💻 Working with **MERN Stack, Python, AI/ML Models**  
-🚀 Focused on **high-performance systems & intelligent automation**
+ Passionate **Backend Developer with AI integration**  
+ Building **scalable APIs, ML-powered systems, and cloud applications**  
+ Interested in **AI + Backend Architecture**  
+ Working with **MERN Stack, Python, AI/ML Models**  
+ Focused on **high-performance systems & intelligent automation**
 
 ---
 
-## 🧠 Tech Stack
+##  Tech Stack
 
-### 💻 Backend
+###  Backend
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/ExpressJS-black?style=for-the-badge&logo=express)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### 🧠 AI / ML
+###  AI / ML
 ![TensorFlow](https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![Scikit Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikit-learn)
 ![OpenAI](https://img.shields.io/badge/OpenAI-black?style=for-the-badge&logo=openai)
 
-### 🗄 Database
+###  Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
-### ☁️ Cloud / DevOps
+###  Cloud / DevOps
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws)
 
 ---
 
-## 🚀 What I Build
+##  What I Build
 
 ✔ Scalable Backend Systems  
 ✔ AI Powered Web Applications  
@@ -50,7 +49,7 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
 
@@ -62,7 +61,7 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 ---
 
-## 🚀 Contribution Overview
+##  Contribution Overview
 
 <p align="center">
 
@@ -72,7 +71,7 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 ---
 
-## 📈 GitHub Metrics
+##  GitHub Metrics
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=pallavi-patel-developer&show_icons=true&theme=radical"/>
@@ -83,8 +82,8 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 </p>
 
 ---
-
-## 🧠 Current Focus
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pallavi-patel-developerE&theme=tokyonight"/>
+##  Current Focus
 
 - AI + Backend Integration  
 - Scalable SaaS Architecture  
@@ -93,7 +92,7 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
 <a href="https://github.com/pallavi-patel-developer/pallavi-patel-developer"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/></a>
