@@ -47,15 +47,6 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 ✔ Machine Learning Model Deployment  
 ✔ Cloud Native Applications  
 
----
-
-##  GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pallavi-patel-developer&theme=radical" height="170"/>
-
-</p>
 
 ---
 
