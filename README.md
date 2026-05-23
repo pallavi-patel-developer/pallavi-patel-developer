@@ -9,7 +9,7 @@ Building intelligent backend systems, scalable APIs, and AI-powered applications
 ##  About Me
 
 
- Passionate **Backend Developer with AI integration**  
+ Passionate **FullStack Developer with AI integration**  
  Building **scalable APIs, ML-powered systems, and cloud applications**  
  Interested in **AI + Backend Architecture**  
  Working with **MERN Stack, Python, AI/ML Models**  
