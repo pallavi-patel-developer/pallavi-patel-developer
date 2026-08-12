@@ -1,4 +1,4 @@
-<h1 align="center"> Backend Developer with AI</h1>
+<h1 align="center"> Full Stack Engineer with AI</h1>
 
 <p align="center">
 Building intelligent backend systems, scalable APIs, and AI-powered applications.
